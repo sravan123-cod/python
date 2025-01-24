@@ -21,3 +21,6 @@ print("Data type of c is",type(c))
 d = "sravan"
 
 print("Data type of d is",type(d))
+e ="Good "
+f ="Morning"
+print(e+f)
