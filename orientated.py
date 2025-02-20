@@ -14,3 +14,12 @@ class parrot:
         print(self.age)
 oge=parrot("sravan",10)
 oge.display()
+class student:
+    def __init__(self,name,grade):
+       self.name=name
+       self.grade=grade
+    def display(self):
+        print(self.name)
+        print(self.aggrade)
+abc=student("Advaith",10)
+abc.display()
